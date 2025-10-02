@@ -1,0 +1,201 @@
+task_id,required_skill,min_proficiency,importance_weight,is_mandatory
+T028,UI/UX Design,6,5,Yes
+T059,Rust,6,8,No
+T138,Communication,4,9,No
+T181,Agile Methodologies,5,8,Yes
+T181,Go,6,8,Yes
+T003,Agile Methodologies,5,10,Yes
+T112,Security,5,8,No
+T082,NLP,6,6,No
+T185,Android Development,7,7,No
+T002,Agile Methodologies,7,10,No
+T134,Machine Learning,7,10,No
+T153,Kubernetes,6,9,Yes
+T194,Python,5,6,Yes
+T020,Node.js,5,5,No
+T012,NLP,6,5,No
+T123,NLP,7,5,No
+T190,Agile Methodologies,7,6,No
+T171,Cloud Deployment,6,10,Yes
+T170,Rust,7,6,No
+T119,Project Management,6,8,No
+T098,Testing,4,10,No
+T052,Cloud Deployment,9,9,Yes
+T019,Go,7,5,No
+T073,Testing,7,8,No
+T116,UI/UX Design,7,10,No
+T054,CI/CD,6,10,No
+T061,UI/UX Design,6,8,No
+T105,UI/UX Design,5,8,No
+T143,Deep Learning,4,7,No
+T176,iOS Development,4,6,No
+T082,Security,4,6,Yes
+T196,Agile Methodologies,7,6,Yes
+T079,Rust,5,9,No
+T140,Go,7,8,No
+T173,UI/UX Design,5,9,Yes
+T053,UI/UX Design,4,7,No
+T145,Node.js,7,6,No
+T089,Payment Systems,9,7,No
+T054,Machine Learning,7,6,Yes
+T165,Database Design,5,7,No
+T106,Machine Learning,8,10,No
+T158,Docker,4,9,No
+T129,Communication,4,7,No
+T116,Java,4,5,Yes
+T106,Python,5,9,No
+T091,Kubernetes,5,7,No
+T162,C++,7,10,No
+T095,React,7,5,No
+T184,Android Development,9,8,No
+T050,Testing,4,8,No
+T052,iOS Development,5,5,Yes
+T067,Data Analysis,6,9,Yes
+T096,Agile Methodologies,7,6,No
+T122,Authentication,7,5,Yes
+T005,Cloud Deployment,7,9,No
+T052,iOS Development,4,5,No
+T094,Testing,7,5,Yes
+T028,Node.js,6,6,Yes
+T126,Python,5,9,Yes
+T137,Machine Learning,5,9,Yes
+T186,Cloud Deployment,8,9,Yes
+T151,Big Data,7,9,No
+T187,Node.js,5,9,No
+T173,Rust,7,5,Yes
+T143,Database Design,5,7,Yes
+T148,CI/CD,7,5,Yes
+T130,Node.js,5,10,Yes
+T166,API Integration,7,9,Yes
+T105,Project Management,6,7,Yes
+T135,Docker,7,6,Yes
+T010,Docker,7,5,Yes
+T078,CI/CD,6,7,No
+T083,NLP,7,7,No
+T033,Testing,7,9,Yes
+T078,Testing,7,10,No
+T190,Machine Learning,6,10,Yes
+T186,Docker,7,6,Yes
+T174,JavaScript,6,9,No
+T080,Agile Methodologies,7,10,Yes
+T098,API Integration,4,6,No
+T021,Kubernetes,7,10,Yes
+T157,Android Development,5,7,No
+T081,Data Analysis,7,9,No
+T153,iOS Development,5,7,No
+T162,React,4,7,Yes
+T194,Big Data,6,10,Yes
+T189,Leadership,4,7,Yes
+T004,JavaScript,7,5,No
+T104,Agile Methodologies,5,5,Yes
+T147,React,7,6,Yes
+T096,Kubernetes,7,7,No
+T053,Database Design,7,8,No
+T037,Go,4,5,Yes
+T126,Python,5,10,Yes
+T093,Deep Learning,7,10,Yes
+T080,Deep Learning,7,6,No
+T151,Payment Systems,5,6,No
+T041,Rust,7,10,No
+T193,Machine Learning,4,9,No
+T184,Kubernetes,5,6,Yes
+T114,Security,7,6,No
+T060,React,4,7,Yes
+T011,Docker,7,10,No
+T114,React,6,7,Yes
+T139,CI/CD,7,5,No
+T182,NLP,7,10,Yes
+T091,Payment Systems,4,5,No
+T184,React,6,5,Yes
+T040,JavaScript,5,9,Yes
+T006,NLP,6,7,No
+T145,Security,7,10,No
+T053,Node.js,4,5,Yes
+T028,Docker,6,5,Yes
+T045,Payment Systems,7,7,Yes
+T097,NLP,7,10,No
+T070,Communication,7,6,No
+T053,Database Design,6,10,Yes
+T061,JavaScript,5,6,No
+T029,Big Data,5,9,Yes
+T074,Agile Methodologies,5,10,No
+T145,iOS Development,7,10,No
+T112,Docker,4,10,No
+T182,C++,6,9,No
+T146,Node.js,7,6,No
+T191,API Integration,6,10,No
+T197,Machine Learning,5,5,No
+T073,Database Design,7,10,No
+T147,Project Management,5,8,Yes
+T077,Data Analysis,4,10,Yes
+T169,Payment Systems,7,10,Yes
+T178,UI/UX Design,4,9,No
+T027,Java,7,9,No
+T023,Java,4,9,No
+T053,Payment Systems,6,5,Yes
+T007,Go,7,10,Yes
+T021,JavaScript,4,9,No
+T100,UI/UX Design,4,9,Yes
+T068,API Integration,7,6,No
+T161,CI/CD,5,8,No
+T118,JavaScript,7,9,No
+T199,CI/CD,4,10,No
+T160,UI/UX Design,4,5,No
+T169,Java,7,7,No
+T080,Authentication,7,10,Yes
+T164,NLP,4,5,No
+T198,Android Development,7,5,Yes
+T048,Authentication,5,7,Yes
+T183,Big Data,6,6,Yes
+T175,Payment Systems,4,7,No
+T127,Leadership,6,8,Yes
+T118,Deep Learning,7,8,No
+T163,Payment Systems,5,10,No
+T178,Authentication,7,10,No
+T166,Machine Learning,7,6,No
+T060,UI/UX Design,4,9,Yes
+T171,Testing,4,5,Yes
+T199,Node.js,4,7,No
+T086,CI/CD,4,5,No
+T081,Project Management,6,5,Yes
+T136,Machine Learning,5,7,Yes
+T033,Project Management,5,5,No
+T095,Communication,6,5,Yes
+T087,Machine Learning,5,10,No
+T174,Deep Learning,7,7,Yes
+T158,Communication,5,10,No
+T075,C++,5,5,No
+T194,Database Design,4,6,No
+T178,React,5,7,Yes
+T197,NLP,5,10,No
+T155,Kubernetes,5,9,Yes
+T167,Big Data,6,10,No
+T136,Agile Methodologies,5,8,No
+T080,Data Analysis,5,8,Yes
+T167,Communication,6,10,No
+T037,CI/CD,6,9,Yes
+T087,Deep Learning,4,6,Yes
+T133,Kubernetes,5,8,Yes
+T169,iOS Development,7,6,Yes
+T143,Machine Learning,5,9,No
+T037,Go,5,8,No
+T052,Deep Learning,7,10,Yes
+T101,Agile Methodologies,7,9,No
+T103,Node.js,5,7,No
+T041,Data Analysis,7,7,No
+T159,Leadership,7,6,No
+T094,Communication,5,7,Yes
+T082,NLP,6,6,Yes
+T105,UI/UX Design,7,7,Yes
+T060,Deep Learning,7,6,No
+T041,Go,5,10,No
+T044,Security,5,7,No
+T055,Leadership,6,7,No
+T193,JavaScript,5,6,No
+T036,Database Design,6,5,Yes
+T042,Payment Systems,5,7,Yes
+T112,Java,5,5,Yes
+T040,Payment Systems,5,7,Yes
+T199,UI/UX Design,5,8,No
+T107,Big Data,5,5,Yes
+T193,Testing,6,7,No

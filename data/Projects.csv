@@ -1,0 +1,21 @@
+project_id,project_name,status,start_date,deadline,complexity,domain,team_size
+P001,E-commerce Platform,Active,2024-01-15,2024-06-30,High,Web Dev,6
+P002,Mobile Banking App,Active,2024-02-01,2024-08-15,High,Mobile Dev,5
+P003,Data Analytics Dashboard,Active,2024-03-01,2024-09-30,Medium,Data Science,4
+P004,AI Chatbot,Planning,2024-04-01,2024-10-15,High,AI/ML,7
+P005,Cloud Migration,Active,2024-02-15,2024-07-30,Medium,DevOps,4
+P006,CRM System,Planning,2024-05-01,2024-11-30,Medium,Web Dev,5
+P007,Mobile App Testing,Active,2024-03-15,2024-08-30,Low,QA,3
+P008,Security Audit,Planning,2024-04-15,2024-09-15,High,Security,4
+P009,UI/UX Redesign,Active,2024-01-30,2024-06-15,Medium,Design,4
+P010,Performance Optimization,Active,2024-03-10,2024-08-10,High,Backend,5
+P011,Healthcare Analytics Platform,Active,2024-03-29,2024-09-23,High,Design,4
+P012,Smart Home IoT System,Completed,2024-04-25,2024-12-15,Low,AI/ML,8
+P013,Blockchain Payment Gateway,Planning,2024-04-06,2024-11-20,Medium,AI/ML,5
+P014,Online Learning Portal,Planning,2024-04-11,2024-09-15,High,Design,7
+P015,Fraud Detection System,Active,2024-04-02,2024-10-20,High,Design,6
+P016,Inventory Management Software,Planning,2024-03-24,2024-10-23,Low,Cloud,3
+P017,Gaming Platform,Planning,2024-04-25,2024-12-13,High,DevOps,5
+P018,Weather Forecasting AI,Active,2024-02-05,2024-09-19,Low,Backend,4
+P019,Video Streaming Service,Planning,2024-02-26,2024-07-31,Medium,Security,4
+P020,Customer Support Automation,Planning,2024-01-11,2024-07-12,Medium,Web Dev,5

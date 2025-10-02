@@ -1,0 +1,201 @@
+task_id,project_id,task_name,estimated_hours,priority,deadline,status,complexity_score
+T001,P008,Security Audit,32,High,2024-09-24,Open,9
+T002,P016,UI/UX Design,40,Low,2024-08-29,Open,8
+T003,P005,NLP Model Training,28,Low,2024-08-13,Open,5
+T004,P012,Feature Enhancement,8,Low,2024-06-25,In Progress,4
+T005,P017,Database Design,12,Medium,2024-09-09,In Progress,8
+T006,P013,Database Design,48,Medium,2024-08-17,Completed,6
+T007,P019,Report Generation,36,High,2024-07-08,In Progress,9
+T008,P012,User Authentication,36,Low,2024-09-23,Open,7
+T009,P008,UI/UX Design,24,Medium,2024-09-10,In Progress,8
+T010,P009,Payment Gateway Setup,48,Low,2024-07-08,In Progress,8
+T011,P007,Android App Development,44,Low,2024-09-27,In Progress,5
+T012,P008,Documentation,8,Medium,2024-09-10,Open,8
+T013,P018,Payment Gateway Setup,20,Low,2024-04-22,In Progress,9
+T014,P007,CI/CD Pipeline Setup,8,Low,2024-04-12,Open,10
+T015,P012,Payment Gateway Setup,20,Medium,2024-09-06,Completed,9
+T016,P010,Database Design,12,High,2024-04-22,In Progress,7
+T017,P020,UI/UX Design,40,Medium,2024-04-21,Completed,9
+T018,P001,Database Design,44,Low,2024-07-29,Completed,3
+T019,P005,Security Audit,36,High,2024-06-01,In Progress,8
+T020,P002,Feature Enhancement,16,High,2024-09-22,In Progress,10
+T021,P001,Load Testing,36,High,2024-08-01,Open,8
+T022,P003,UI/UX Design,40,Medium,2024-05-15,Completed,4
+T023,P014,Dashboard Frontend,28,Low,2024-04-30,Completed,3
+T024,P001,Bug Fixing,20,Low,2024-06-13,Completed,8
+T025,P001,Android App Development,36,Low,2024-06-04,Completed,6
+T026,P014,Database Design,24,High,2024-06-04,In Progress,8
+T027,P009,Dashboard Frontend,8,Medium,2024-09-24,In Progress,5
+T028,P012,iOS App Development,36,High,2024-09-02,In Progress,10
+T029,P004,Dashboard Frontend,12,Low,2024-04-25,Open,7
+T030,P015,iOS App Development,40,High,2024-05-22,Open,9
+T031,P001,Bug Fixing,12,High,2024-05-13,In Progress,9
+T032,P002,Backend Refactoring,44,Medium,2024-09-14,Open,5
+T033,P006,iOS App Development,16,Medium,2024-04-11,Completed,5
+T034,P012,Security Audit,24,High,2024-06-17,Completed,6
+T035,P005,Load Testing,28,Medium,2024-09-18,Completed,3
+T036,P008,User Authentication,8,Low,2024-07-10,In Progress,3
+T037,P017,Unit Testing,48,Medium,2024-07-02,In Progress,8
+T038,P017,Bug Fixing,28,Low,2024-06-02,In Progress,4
+T039,P020,User Authentication,44,Medium,2024-05-13,Open,9
+T040,P004,Android App Development,48,High,2024-09-27,Open,5
+T041,P002,Frontend API Integration,32,Medium,2024-04-23,Completed,9
+T042,P020,Payment Gateway Setup,36,Low,2024-09-26,Completed,9
+T043,P014,Database Design,24,Low,2024-05-15,In Progress,10
+T044,P019,Frontend API Integration,32,High,2024-05-18,In Progress,5
+T045,P014,Documentation,12,Medium,2024-07-07,Completed,9
+T046,P015,CI/CD Pipeline Setup,40,Medium,2024-05-08,Open,5
+T047,P018,Documentation,20,High,2024-09-15,In Progress,7
+T048,P001,Payment Gateway Setup,20,Medium,2024-09-17,Completed,7
+T049,P016,User Authentication,40,Low,2024-09-17,Completed,3
+T050,P005,Database Design,24,Medium,2024-06-20,Open,10
+T051,P017,NLP Model Training,24,Low,2024-08-13,Open,4
+T052,P010,Report Generation,36,Medium,2024-06-15,Open,10
+T053,P013,Frontend API Integration,24,Low,2024-09-14,Completed,5
+T054,P018,Documentation,40,High,2024-04-11,Open,6
+T055,P013,NLP Model Training,20,Low,2024-05-05,Completed,5
+T056,P012,Bug Fixing,16,Medium,2024-05-31,Open,6
+T057,P017,Database Design,28,Low,2024-07-11,Open,10
+T058,P005,Unit Testing,40,Medium,2024-05-24,Open,3
+T059,P018,Data Pipeline Setup,20,Medium,2024-06-03,In Progress,3
+T060,P012,Cloud Deployment,44,Low,2024-06-16,Open,4
+T061,P016,UI/UX Design,28,Low,2024-04-27,In Progress,9
+T062,P018,Backend Refactoring,16,Medium,2024-07-02,Open,6
+T063,P013,Load Testing,32,High,2024-04-16,Open,10
+T064,P006,Dashboard Frontend,8,Low,2024-04-12,In Progress,10
+T065,P005,Bug Fixing,8,Low,2024-04-03,In Progress,5
+T066,P008,Backend Refactoring,28,Medium,2024-06-14,Completed,6
+T067,P014,Bug Fixing,40,Low,2024-09-24,Open,8
+T068,P019,Frontend API Integration,24,Medium,2024-06-24,In Progress,9
+T069,P003,Documentation,44,High,2024-07-14,In Progress,3
+T070,P007,Documentation,44,Medium,2024-05-18,Completed,8
+T071,P007,Security Audit,12,Low,2024-08-06,In Progress,5
+T072,P018,iOS App Development,40,Medium,2024-06-26,Completed,9
+T073,P006,Database Design,36,Low,2024-05-23,Completed,8
+T074,P017,UI/UX Design,32,Low,2024-05-27,Completed,6
+T075,P002,Unit Testing,16,High,2024-07-01,Completed,9
+T076,P007,UI/UX Design,20,Low,2024-05-29,Completed,10
+T077,P014,Dashboard Frontend,8,Low,2024-04-01,Open,7
+T078,P004,Database Design,44,Medium,2024-08-21,In Progress,4
+T079,P017,Android App Development,16,Medium,2024-08-07,Completed,10
+T080,P010,NLP Model Training,24,Low,2024-08-21,Open,6
+T081,P005,Feature Enhancement,32,Low,2024-07-05,Open,5
+T082,P007,Database Design,8,Low,2024-06-20,In Progress,9
+T083,P012,Payment Gateway Setup,32,High,2024-04-10,Completed,5
+T084,P016,Report Generation,28,High,2024-04-26,In Progress,8
+T085,P019,Frontend API Integration,16,High,2024-05-10,Completed,3
+T086,P005,Load Testing,48,Low,2024-07-06,Open,8
+T087,P004,Android App Development,8,High,2024-07-19,In Progress,9
+T088,P005,Payment Gateway Setup,44,Low,2024-08-01,Completed,6
+T089,P008,Security Audit,48,Medium,2024-06-10,In Progress,3
+T090,P018,Security Audit,28,Low,2024-04-20,Open,10
+T091,P017,Documentation,32,Medium,2024-05-15,Open,6
+T092,P007,iOS App Development,20,High,2024-05-29,In Progress,5
+T093,P002,Documentation,44,Medium,2024-08-04,In Progress,5
+T094,P015,NLP Model Training,32,High,2024-05-14,Open,4
+T095,P001,Data Pipeline Setup,48,Low,2024-06-06,In Progress,10
+T096,P015,Cloud Deployment,16,Low,2024-09-08,Completed,6
+T097,P017,Dashboard Frontend,20,Low,2024-09-11,Open,7
+T098,P005,Report Generation,40,High,2024-08-05,Completed,10
+T099,P020,Unit Testing,40,High,2024-09-13,Completed,9
+T100,P003,iOS App Development,20,Medium,2024-08-18,In Progress,6
+T101,P012,Security Audit,44,Low,2024-09-25,Open,6
+T102,P013,Bug Fixing,40,High,2024-08-26,In Progress,8
+T103,P014,User Authentication,48,Low,2024-08-02,Open,10
+T104,P005,UI/UX Design,32,High,2024-09-23,Completed,10
+T105,P016,User Authentication,16,Medium,2024-06-10,In Progress,7
+T106,P012,Payment Gateway Setup,20,Low,2024-09-19,In Progress,7
+T107,P013,Dashboard Frontend,48,Low,2024-09-16,Open,4
+T108,P010,Cloud Deployment,48,High,2024-06-16,Open,5
+T109,P005,Unit Testing,16,Medium,2024-07-26,Completed,10
+T110,P009,Security Audit,24,Low,2024-09-17,Completed,4
+T111,P007,Android App Development,16,Low,2024-05-05,Open,10
+T112,P008,Report Generation,44,High,2024-09-15,In Progress,10
+T113,P019,User Authentication,16,Low,2024-06-02,In Progress,4
+T114,P013,CI/CD Pipeline Setup,20,Medium,2024-08-09,In Progress,9
+T115,P012,Payment Gateway Setup,44,Low,2024-05-11,In Progress,8
+T116,P013,CI/CD Pipeline Setup,40,High,2024-08-22,In Progress,5
+T117,P003,Security Audit,40,High,2024-07-23,In Progress,4
+T118,P009,Cloud Deployment,16,High,2024-06-27,In Progress,3
+T119,P004,Bug Fixing,16,Low,2024-04-06,Open,5
+T120,P004,Cloud Deployment,28,Low,2024-09-11,Open,9
+T121,P012,UI/UX Design,36,High,2024-09-15,In Progress,6
+T122,P006,Data Pipeline Setup,8,Medium,2024-07-26,Completed,7
+T123,P015,UI/UX Design,24,Medium,2024-05-07,Open,9
+T124,P016,Android App Development,20,Medium,2024-07-21,In Progress,7
+T125,P014,Bug Fixing,20,High,2024-06-21,Completed,7
+T126,P006,Security Audit,16,High,2024-08-04,Completed,5
+T127,P019,Security Audit,12,Medium,2024-04-10,Completed,7
+T128,P013,Data Pipeline Setup,48,Low,2024-08-12,Open,10
+T129,P015,Bug Fixing,12,High,2024-08-24,In Progress,9
+T130,P012,Load Testing,32,Medium,2024-08-03,Open,3
+T131,P012,Dashboard Frontend,24,High,2024-05-08,In Progress,4
+T132,P010,Database Design,40,Low,2024-07-17,Completed,9
+T133,P020,Dashboard Frontend,16,High,2024-04-03,Completed,6
+T134,P010,Cloud Deployment,16,High,2024-06-12,Open,9
+T135,P004,Feature Enhancement,24,Low,2024-05-26,In Progress,6
+T136,P019,NLP Model Training,44,Medium,2024-05-09,Open,4
+T137,P019,UI/UX Design,44,High,2024-05-11,In Progress,9
+T138,P016,Security Audit,12,High,2024-05-02,In Progress,7
+T139,P008,CI/CD Pipeline Setup,36,Medium,2024-09-03,Completed,6
+T140,P001,iOS App Development,24,Medium,2024-05-05,Open,10
+T141,P019,Dashboard Frontend,44,Medium,2024-07-01,Completed,3
+T142,P004,Unit Testing,20,Medium,2024-04-17,Open,10
+T143,P003,User Authentication,40,High,2024-09-10,In Progress,6
+T144,P011,Frontend API Integration,32,Low,2024-05-03,Completed,9
+T145,P020,Unit Testing,16,High,2024-09-07,Completed,8
+T146,P019,Feature Enhancement,20,Medium,2024-06-25,Open,3
+T147,P003,Unit Testing,24,High,2024-05-11,Completed,10
+T148,P019,Bug Fixing,44,High,2024-04-30,In Progress,3
+T149,P011,Payment Gateway Setup,44,Low,2024-05-11,Completed,5
+T150,P015,Data Pipeline Setup,44,High,2024-07-16,Completed,6
+T151,P003,iOS App Development,16,Medium,2024-07-02,Completed,4
+T152,P011,Backend Refactoring,44,High,2024-09-15,In Progress,7
+T153,P001,NLP Model Training,12,Medium,2024-04-08,Completed,8
+T154,P004,Feature Enhancement,24,Medium,2024-09-02,Completed,8
+T155,P005,Documentation,48,Low,2024-09-21,Completed,5
+T156,P012,Data Pipeline Setup,44,Medium,2024-08-01,Completed,5
+T157,P019,Android App Development,36,Low,2024-04-19,In Progress,3
+T158,P012,Dashboard Frontend,8,Medium,2024-08-05,In Progress,4
+T159,P007,Backend Refactoring,40,Medium,2024-06-05,In Progress,5
+T160,P007,NLP Model Training,48,High,2024-06-30,Open,5
+T161,P005,Feature Enhancement,48,Medium,2024-06-27,In Progress,3
+T162,P016,Payment Gateway Setup,40,High,2024-06-06,In Progress,3
+T163,P007,Dashboard Frontend,12,Medium,2024-06-24,Open,7
+T164,P016,Payment Gateway Setup,12,High,2024-04-14,Completed,9
+T165,P018,Payment Gateway Setup,24,High,2024-06-09,Open,4
+T166,P002,iOS App Development,36,Low,2024-06-22,Open,5
+T167,P002,User Authentication,28,High,2024-04-07,Open,4
+T168,P013,iOS App Development,44,Medium,2024-07-18,Completed,9
+T169,P012,Documentation,40,Medium,2024-05-21,In Progress,3
+T170,P011,Backend Refactoring,36,Low,2024-04-05,Open,5
+T171,P010,NLP Model Training,24,Medium,2024-05-20,In Progress,9
+T172,P005,Documentation,8,High,2024-06-25,Open,4
+T173,P008,User Authentication,24,Medium,2024-04-18,Open,7
+T174,P011,User Authentication,20,Low,2024-07-25,Open,6
+T175,P003,Frontend API Integration,20,Low,2024-04-08,Open,10
+T176,P014,iOS App Development,24,Medium,2024-06-18,In Progress,6
+T177,P009,Database Design,36,Medium,2024-05-01,Open,5
+T178,P010,Bug Fixing,40,High,2024-06-22,In Progress,6
+T179,P005,Android App Development,44,High,2024-07-18,Open,4
+T180,P013,Frontend API Integration,20,High,2024-06-15,Open,9
+T181,P015,Load Testing,24,Medium,2024-09-12,In Progress,3
+T182,P009,iOS App Development,48,Medium,2024-04-29,Completed,3
+T183,P019,Frontend API Integration,8,Medium,2024-05-22,Open,10
+T184,P009,Dashboard Frontend,36,High,2024-04-07,Open,3
+T185,P008,Unit Testing,8,Medium,2024-07-01,Open,9
+T186,P014,Load Testing,36,High,2024-09-11,In Progress,7
+T187,P011,Dashboard Frontend,48,Low,2024-07-08,Completed,7
+T188,P012,Report Generation,48,Low,2024-05-04,Open,3
+T189,P006,Backend Refactoring,28,High,2024-06-21,In Progress,7
+T190,P011,iOS App Development,16,Low,2024-07-05,Open,9
+T191,P002,Documentation,12,Low,2024-06-04,Open,5
+T192,P018,Feature Enhancement,8,Medium,2024-08-27,In Progress,6
+T193,P013,User Authentication,20,High,2024-07-12,Completed,3
+T194,P019,Data Pipeline Setup,16,Low,2024-04-26,Open,3
+T195,P020,Feature Enhancement,20,Low,2024-08-09,Open,6
+T196,P010,User Authentication,48,High,2024-07-12,Completed,10
+T197,P019,CI/CD Pipeline Setup,20,High,2024-07-06,In Progress,5
+T198,P019,Documentation,40,Low,2024-08-09,Completed,7
+T199,P005,Feature Enhancement,20,Low,2024-07-21,Completed,10
+T200,P018,UI/UX Design,36,Medium,2024-08-20,Open,3
