@@ -113,7 +113,6 @@ ai-scheduling-tool/
 │  └─ Projects.csv
 ├─ notebooks/
 │  └─ AI_Scheduling_Tool.ipynb
-├─ results/                # (optional) charts/exports
 ├─ requirements.txt
 ├─ .gitignore
 └─ README.md
